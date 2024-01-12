@@ -1,0 +1,10 @@
+.button-me{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 300px;
+    background-color: pink;
+}
+body{
+    background-color: darkslateblue;
+    background-image: url(../HTB1_XgTaOjrK1RjSsplq6xHmVXaJ.jpg_640x640Q90.jpg_.webp);
+}
